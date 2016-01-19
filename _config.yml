@@ -109,8 +109,8 @@ customLinks:
 
 #comment config
 disqus:
-  config: false
-  id: minixalpha
+  config: true
+  id: 
 
 
 #################################### global configure #######################################
@@ -120,7 +120,7 @@ baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
+title: 测试集
 description: 人生到处知何似，应似飞鸿踏雪泥
 theme: slate
 disqusname: 
